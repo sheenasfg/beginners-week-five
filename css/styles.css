@@ -6,17 +6,15 @@ body {
   text-align: center;
 }
 .bg-dark{
-  background-color: tomato!important;
+  background-color: blue!important;
 }
 
 .navbar-dark .navbar-brand {
-    color: blue;
+    color: light-blue;
 }
-.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
-  color: violet;
-}
+
 .btn-primary {
-    color: yellow;
-    background-color: purple;
-    border-color: yellow;
+    color: tomato;
+    background-color: light-blue;
+    border-color: tomato;
 }
